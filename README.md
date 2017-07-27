@@ -15,6 +15,7 @@ Compatible Prestashop 1.6
 ## How it works
 
 Just download the imageregenerator folder and upload it to your /modules folder. Then install it as a classic module.
+Or upload the imageregenerator.zip package directly in Prestashop backoffice modules/Add new module.
 
 ## Contribute
 
