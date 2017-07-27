@@ -1,6 +1,6 @@
 # imageRegeneratorPrestashop
 
-Regenerate safely prestashop images with Ajax
+Regenerate safely prestashop images with Ajax. Solve the timeout limit processing issue on several hosting companies, when use the buildin Prestashop function to regenerate images.
 
 ## Requirements
 Compatible Prestashop 1.6
