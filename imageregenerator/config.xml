@@ -2,7 +2,7 @@
 <module>
     <name>imageregenerator</name>
     <displayName><![CDATA[Image Regenerator]]></displayName>
-    <version><![CDATA[1.0]]></version>
+    <version><![CDATA[1.2]]></version>
     <description><![CDATA[Use ajax to regenerate image safely.]]></description>
     <author><![CDATA[J&eacute;r&eacute;my Besson]]></author>
     <tab><![CDATA[administration]]></tab>

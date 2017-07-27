@@ -2,11 +2,11 @@
 <module>
 	<name>imageregenerator</name>
 	<displayName><![CDATA[Image Regenerator]]></displayName>
-	<version><![CDATA[1.0]]></version>
-	<description><![CDATA[Use ajax to regenerate image safely.]]></description>
-	<author><![CDATA[J&eacute;r&eacute;my Besson]]></author>
+	<version><![CDATA[1.2]]></version>
+	<description><![CDATA[R&eacute;g&eacute;naration des images en ajax.]]></description>
+	<author><![CDATA[J&eacute;r&eacute;my Besson - ComonSoft]]></author>
 	<tab><![CDATA[administration]]></tab>
-	<confirmUninstall><![CDATA[Are you sure you want to uninstall?]]></confirmUninstall>
+	<confirmUninstall><![CDATA[Vous-vous vraiment désinstaller ?]]></confirmUninstall>
 	<is_configurable>1</is_configurable>
 	<need_instance>0</need_instance>
 	<limited_countries></limited_countries>
